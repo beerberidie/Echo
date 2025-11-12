@@ -1,5 +1,9 @@
 # Echo Voice Recording App
 
+![CI/CD Pipeline](https://github.com/beerberidie/Echo/actions/workflows/ci.yml/badge.svg)
+![Node.js](https://img.shields.io/badge/Node.js-18%20%7C%2020-green)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 Echo is a voice recording application that allows users to record, transcribe, summarize, and share voice recordings. This application includes both a frontend built with React and TypeScript, and a backend built with Node.js, Express, and MongoDB.
 
 ## Key Features
